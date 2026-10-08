@@ -25,7 +25,7 @@
         "shortDescription": "Design UI prototypes",
         "longDescription": "Designobo is an AI design tool for building UI prototypes as real HTML screens. With this plugin, your agent can browse your team's projects, read and search screens, create new projects and screens, and edit existing ones while you watch the changes appear live in Designobo. It can render a screen in a real browser to check for layout and runtime errors, and turn existing designs into code in your own projects. The agent only accesses the team you approve when you connect, and you can disconnect it at any time from Designobo.",
         "developerName": "ByteBridge LLC",
-        "category": "Design",
+        "category": "Creativity",
         "capabilities": [
           "Read screens",
           "Create screens",
@@ -94,6 +94,7 @@
             }
           ]
         },
+        "demo_recording_url": "https://screen.studio/share/ECcFhBuT",
         "commerce": false,
         "commerce_description": "This plugin does not sell products or process payments."
       },
