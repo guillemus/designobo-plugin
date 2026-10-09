@@ -1,0 +1,19 @@
+{
+  "name": "designobo",
+  "version": "1.0.0",
+  "description": "Design and edit UI prototypes in Designobo. Browse your team's projects, read and search screens, create new screens, edit existing ones, and check them in a real browser.",
+  "author": {
+    "name": "ByteBridge LLC",
+    "email": "contact@bytebridge.company"
+  },
+  "homepage": "https://designobo.com/docs/mcp",
+  "repository": "https://github.com/guillemus/designobo-plugin",
+  "license": "MIT",
+  "keywords": ["design", "prototyping", "ui", "html", "mockups"],
+  "logo": "assets/logo.png",
+  "mcpServers": {
+    "designobo": {
+      "url": "https://designobo.com/mcp"
+    }
+  }
+}
