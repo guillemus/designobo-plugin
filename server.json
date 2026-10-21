@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.guillemus/designobo",
+  "title": "Designobo",
+  "description": "Your AI agent designs editable, clickable UI prototypes on a live canvas.",
+  "websiteUrl": "https://designobo.com",
+  "repository": {
+    "url": "https://github.com/guillemus/designobo-plugin",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://designobo.com/mcp"
+    }
+  ]
+}
