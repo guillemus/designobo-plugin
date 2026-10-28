@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "designobo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Design and edit UI prototypes in Designobo. Browse your team's projects, read and search screens, create new screens, edit existing ones, and check them in a real browser.",
   "author": {
     "name": "ByteBridge LLC",
@@ -23,7 +23,7 @@
       "interface": {
         "displayName": "Designobo",
         "shortDescription": "Design UI prototypes",
-        "longDescription": "Designobo is an AI design tool for building UI prototypes as real HTML screens. With this plugin, your agent can browse your team's projects, read and search screens, create new projects and screens, and edit existing ones while you watch the changes appear live in Designobo. It can render a screen in a real browser to check for layout and runtime errors, and turn existing designs into code in your own projects. The agent only accesses the team you approve when you connect, and you can disconnect it at any time from Designobo.",
+        "longDescription": "Designobo is an AI design tool for building UI prototypes as real HTML screens.\n\nBrowse your team's projects, read and search screens, and create new projects and screens. Edit existing screens with your agent and watch the changes appear live in Designobo.\n\nRender screens in a real browser to check for layout and runtime errors, or turn existing designs into code in your own projects.\n\nYour agent only accesses the team you approve when you connect. You can disconnect it at any time from Designobo.",
         "developerName": "ByteBridge LLC",
         "category": "Creativity",
         "capabilities": [
